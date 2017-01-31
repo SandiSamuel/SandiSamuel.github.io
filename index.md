@@ -12,9 +12,13 @@ title: Index
 <div class="row">
 <!-- Main hero unit for a primary marketing message or call to action -->
 
+<script language="javascript">
+alert("Welcome to my online Portfolio!")
+</script>
+
 <style>
 body {
-        background-image: url(" ");
+        background-image: url("");
 }
 
 </style>
