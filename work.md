@@ -243,7 +243,5 @@ h3{
 </div>
 
 <div id="footerTitle">
-<p>Cell:(340)344-1182 </p>
 <p>Work Email: s.l.samuel@spartans.nsu.edu </p>
-<p>Personal Email: sandisamuel93@gmail.com</p>
 
