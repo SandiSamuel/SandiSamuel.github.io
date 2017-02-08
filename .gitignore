@@ -5,3 +5,4 @@ _site
 *.tg
 *.tar
 *.tar.gz
+.idea/*
